@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: green;
+}
+
+#veggie-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#veggie-list li {
+    background: #f0f0f0;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
